@@ -29,7 +29,9 @@ let booltest=undefined
 
 // **********************Operations*******************
 
-let str1="Vishesh"
-let str2=" Jadon"
-let str3=str1+str2
-console.log(str3);
+// let str1="Vishesh"
+// let str2=" Jadon"
+// let str3=str1+str2
+// console.log(str3);
+
+console.log(String(undefined));

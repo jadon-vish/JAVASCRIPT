@@ -27,10 +27,22 @@ const hundreds = 1000000
 
 //console.log(Math.round(Math.random()*10));
 
-const min = 10
-const max = 20
+// const min = 10
+// const max = 20
 
-console.log((Math.random()*(max - min + 1))+min); // imp
+// console.log((Math.random()*(max - min + 1))+min); // imp
+
+// random number between 0 and 10:
+//console.log(Math.round(Math.random()*10));
+
+// between 1 to 10
+//console.log(Math.floor((Math.random()*10)+1));
+
+// between 10 and 20
+
+console.log(Math.round(Math.random()*11)+10);
+
+
 
 
 
