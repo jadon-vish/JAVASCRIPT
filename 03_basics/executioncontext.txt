@@ -1,0 +1,7 @@
+Javascript has 2 types of execution contexts:
+1.Global execution context - code yahi run hona hai , inside this
+2.Functional execution context
+3.Eval execution context
+
+code comes - >  first will go to MEMORY CREATION PHASE
+           - >   EXECUTION PHASE

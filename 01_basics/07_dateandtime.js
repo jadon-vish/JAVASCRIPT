@@ -1,4 +1,5 @@
-// Date represent the present / single moment at any platform
+// Date represent the present / single moment at any platform. It is an integral number representing 
+// the mili seconds from 1 jan 1970.
 
 let myDate = new Date()
 //console.log(myDate.toDateString());
